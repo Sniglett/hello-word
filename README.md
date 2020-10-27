@@ -1,5 +1,4 @@
 # hello-word
-just another respository
 
 Hi hunmans!
 
